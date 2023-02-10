@@ -1,14 +1,12 @@
-# GitHub public roadmap
+# Afet Harita Roadmap
 
-:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
+## Introduction
 
-Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
-
-[^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository is now closed. 
-
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback&title=[Public%20roadmap]%20).
+Afet Harita is a tool designed as a open-source project to help emergency responders quickly identify areas affected by earthquakes and locate potential victims. Food locations, hospitals and other available services can be found in this application. The goal of this roadmap is to outline the development plan for Afet Harita, including the features and milestones that will be achieved over time.
 
 ## Guide to the roadmap
+
+**Sercan**
 
 Every item on the roadmap is an issue, with a label that indicates each of the following:
 
@@ -26,6 +24,7 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 ## Release phases
 
+**Caner**
 Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
 
 - **alpha:** *Primarily for testing and feedback*\
@@ -59,11 +58,13 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 
 ## Roadmap stages
 
+**Hande**
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.  You'll also find an **Exploratory** column, which is used in conjunction with the **in design** and **exploring** release phase labels for when no timeframe is yet available.
 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
 ## Feature Areas
+
 
 The following is a list of our current product areas:
 
