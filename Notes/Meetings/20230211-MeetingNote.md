@@ -28,25 +28,32 @@ Consensus Decisions:
   4. @Derya Tavozar, @Sercan Erhan --- > Data Team
   5. @Derya Tavozar, @Merve basak --- > Test Team
   6. @Haydar Kulekci --- > Onboarding Team
-  7. @Altan Kurt, [Oguz Erol](@oguzergul), @Hande Karatas --- > Legal Team
+  7. [@Altan Kurt](https://github.com/altankurt), [Oguz Erol](https://github.com/oguzergul), [@Hande Karatas](https://github.com/handekaratas96) --- > Legal Team
 
 To Do List:
-* Eray, Umut and Emre Savci are extremly focused on technical side currently. Instead of reaching out them for any advisory info, only crystal clear info should be the reason to reach out to them.
+* Eray, Umut and Emre Savci are extremly focused on technical side currently. Instead of reaching out them for any advisory info, only crystal clear info should be the reason to reach out to them. **No private message to these individuals.**
   * Action for All Product Managers
 * There is a form in https://depremyardim.com/. We are not sure if the data coming from depremyardim is getting implemented to AfetHarita.
-* Provision Aid and Confirmed data were used to come for 3 days cycles. It seems this process has been cancelled. Must be confirmed with Frontend Team.
+  * Action for Hande
+* Provision Aid and Confirmed data were used to coming as 3 days cycles. It seems this process has been cancelled. Must be confirmed with Frontend Team. There is no 12 hours data. We need to document this.
+  * Action for Derya & Altan
 * Figma link should be included in onboarding docs. 
   * Action for Hande 
 * Product Manager Shift schedule should be established. There is always a problem with finding available PM.
   * Managers must be providing offline/online information. Critical information must be published within the core channel with other managers.
   * We should prepare a post in the core team and pin this information.
-* Must be prepared a list of team lead contact for emergency reach out.
+  * Action for Derya
+* Must prepare a contact list of all team leads for emergency reach out.
+  * Action Caner, Derya, Hande
 * We need to determine how we will move forward with displaying data information details.
   * [Figma Link](https://www.figma.com/file/sctw6xtcdoFOfmE0gC97Ft/Afetharita.com?node-id=2349%3A8093&t=eijfmGXz5YKZos8G-0)
-  * There is a confusion with confirmed option. This feature will help users to understand where the data is coming from.
-  * If we release this feature, we must provide the source details. This includes where the data comes from etc. Also this should be confirmed with Legal team.
-  * We should confirm with legal team whether we will follow the legislation of EU, NA or only Turkey. This application is moving forward in a more global sense.
+  1. There is a confusion with confirmed option. This feature will help users to understand where the data is coming from.
+  2. If we release this feature, we must provide the source details. This includes where the data comes from etc. Also this should be confirmed with Legal team.
+  3. We should confirm with legal team whether we will follow the legislation of EU, NA or only Turkey. This application is moving forward in a more global sense.
+  * Action Item 1 for Caner, Sena, Hande 
+  * Action Item 2,3 for Hande, Oguz
 * Tooltips - UX/UI team has already created a How-to window. They are waiting for approval to move forward.
+  * Action for 
 * Create a board as Must-Should-Could-Would
 * PM team needs help with understand how to create documents in Github.
   * Action for Caner
