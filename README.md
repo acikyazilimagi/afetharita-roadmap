@@ -6,21 +6,35 @@ Afet Harita is a tool designed as a open-source project to help emergency respon
 
 ## Guide to the roadmap
 
-**Sercan**
+Afet Harita is an open source application that aims to help disaster victims by consolidating information and mapping the needs of the affected communities. The app is designed to be accessible to victims, relatives of victims, civil society organizations, and citizens.
+Features
 
-Every item on the roadmap is an issue, with a label that indicates each of the following:
+Afet Harita provides several important features to help disaster victims:
 
-- A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases. 
+* Rescue needs: A map showing the locations of people who need immediate rescue.
+* Relief aid requests: A map showing the locations of people who need aid, such as food, water, shelter, and medical supplies.
+* Confirmed cases: A map showing the locations of confirmed cases of disaster-related illness or injury.
+* Heatmap: A map that uses color to show the intensity of needs and requests in a particular area.
+* Mobile optimization: The app is designed to work well on mobile devices, even in poor network conditions.
+* Map Filters: Filter for time durations such as last 30 minutes, last 60 minutes, last 24 hours, etc
+* Multiple Layers: Showing 
 
-- A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
+### Current State
 
-- A **feature** that indicates the feature or product to which the item belongs. For a list of current features, see below. 
+Afet Harita is currently live and being improved over time. The development team is constantly working to add new features and improve existing ones to better meet the needs of disaster victims.
+Future Plans and Goals
 
-- One or more **product SKU** labels that indicate which product SKUs we expect the feature to be available in. For a list of current product SKUs, see below.
+The development team has plans for further improving Afet Harita, including:
 
-- One or more **deployment models** (cloud, server, and/or ae). Where not stated, features will generally come out Cloud first, and follow on Server and GHAE at or soon after GA.
+* Adding new features to better meet the needs of disaster victims.
+* Improving the usability and accessibility of the app.
+* Increasing the reach of the app to more communities affected by disasters.
 
-- Once a feature is delivered, the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant [Changelog](https://github.blog/changelog/) post.
+### Contributing to the Project
+
+The Afet Harita open source community welcomes contributions from anyone who is interested in helping. To get involved, you can join the community via their Discord channel. The team uses GitHub Projects to manage their work and communicate in the Discord server.
+
+We hope this guide to the roadmap for Afet Harita is helpful in understanding the purpose and goals of the app. Thank you for your support and we look forward to your contributions!
 
 ## Release phases
 
