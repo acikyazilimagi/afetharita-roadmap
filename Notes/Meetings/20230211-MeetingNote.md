@@ -24,8 +24,8 @@ Consensus Decisions:
   * Note: Every product manager is still responsible of the main communication and strategy. The list below points area of focus.
   1. All Product managers --- > All Communication
   2. @AltanKurt, @Hande Karataş, @gizemcaliskan, @Merve basak ---> FE Team
-  3. @Caner Akin, @Oguz Ergul, @Onur Güngor @senapalaa @Günce Sıdıka Türkoğlu ---> BE Team
-  4. @Derya Tavozar, @Sercan Erhan --- > Data Team
+  3. @Caner Akin, @Oguz Ergul, @Onur Güngor @senapalaa @Günce Sıdıka Türkoğlu, @Muhammed Sedef---> BE Team
+  4. @Derya Tavozar, @Sercan Erhan, @Muhammed Sedef --- > Data Team
   5. @Derya Tavozar, @Merve basak --- > Test Team
   6. @Haydar Kulekci --- > Onboarding Team
   7. [@Altan Kurt](https://github.com/altankurt), [Oguz Erol](https://github.com/oguzergul), [@Hande Karatas](https://github.com/handekaratas96) --- > Legal Team
