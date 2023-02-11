@@ -9,9 +9,11 @@ Participants
 - Merve Basak
 - Haydar Kulekci
 - Altan Kurt
+- Oguz Ergul
+- Eray Gundogmus
 
 
-Meeting Time: 4:32 PM EST (12:32 AM IST)
+Meeting Time: 4:32 PM EST (12:32 AM IST) to 6:20pm EST
 
 Updates:
 
