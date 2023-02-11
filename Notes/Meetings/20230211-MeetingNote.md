@@ -20,10 +20,15 @@ To Do List:
 * Figma link should be included in onboarding docs. 
   * Action for Hande 
 * PM Shift schedule should be established. There is always a problem with finding available PM.
-- Veri Bilgisi Pop-up (Figma) için nasıl ilerleyelim? Sena’nın hazırladığı ile mi gidelim yoksa Hande’nin dokümanı ile mi ilerleyelim? Burada ne gösteremiz gerekir?
-
-- Veri Bilgisi eklenmesi (Metadata) konusunda nasıl ilerleyim? Nerelerden hangi verileir alıyoruz bilgilendirmesi konusunda legal bir çekincemiz var mı?
-
+* 
+* Veri Bilgisi Pop-up (Figma) için nasıl ilerleyelim? Sena’nın hazırladığı ile mi gidelim yoksa Hande’nin dokümanı ile mi ilerleyelim? Burada ne gösteremiz gerekir?
+* * [Figma Link](https://www.figma.com/file/sctw6xtcdoFOfmE0gC97Ft/Afetharita.com?node-id=2349%3A8093&t=eijfmGXz5YKZos8G-0)
+* * There is a confusion with confirmed option. This feature will help users to understand where the data is coming from.
+* * If we release this feature, we must provide the source details. This includes where the data comes from etc. Also this should be confirmed with Legal team.
+* * Post-pone this take?
+* * We should confirm with legal team whether we will follow the legislation of EU, NA or only Turkey. This application is moving forward in a more global sense.
+* Create a board as Must-Should-Could-Would
+* 
 - Onboarding dokümanı hazırlayalım.
 
 
