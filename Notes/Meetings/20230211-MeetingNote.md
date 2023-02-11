@@ -29,6 +29,7 @@ Consensus Decisions:
   5. @Derya Tavozar, @Merve basak --- > Test Team
   6. @Haydar Kulekci --- > Onboarding Team
   7. [@Altan Kurt](https://github.com/altankurt), [Oguz Erol](https://github.com/oguzergul), [@Hande Karatas](https://github.com/handekaratas96) --- > Legal Team
+  8. @Derya Tavozar, @Caner AKin, @Altan Kurt --- > Security Team
 
 To Do List:
 * Eray, Umut and Emre Savci are extremly focused on technical side currently. Instead of reaching out them for any advisory info, only crystal clear info should be the reason to reach out to them. **No private message to these individuals.**
@@ -52,14 +53,19 @@ To Do List:
   3. We should confirm with legal team whether we will follow the legislation of EU, NA or only Turkey. This application is moving forward in a more global sense.
   * Action Item 1 for Caner, Sena, Hande 
   * Action Item 2,3 for Hande, Oguz
+* We need to get in touch with cybersecurity. Define the scope of work
+  * Action for Caner, Derya, Altan
 * Tooltips - UX/UI team has already created a How-to window. They are waiting for approval to move forward.
-  * Action for 
+  * Action for Sercan
 * Create a board as Must-Should-Could-Would
+  * Action For Caner
 * PM team needs help with understand how to create documents in Github.
   * Action for Caner
 * Onboarding Doc must be prepared.
-  * Action for Sercan & Hande
+  * Action for Gizem & Hande
 * We need work on the mobile. There will be an item under Ideas in Roadmap Repo.
-  * Once this is accomplished. We should break the product into Main, Web App, IOS App, Android App
+  * NOTE: Once this is accomplished. We should break the product into Main, Web App, IOS App, Android App
+  * Action for Gizem
 * There are many docs that must be translated. We should get their help for translation.
+  * Action for Gizem, Sercan
 
