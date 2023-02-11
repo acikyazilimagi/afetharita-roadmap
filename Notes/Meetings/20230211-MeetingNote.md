@@ -1,13 +1,13 @@
 Participants
-- Caner
-- Hande
-- Altan
-- Derya
-- Sercan
-- Sena
-- Gizem
-- Merve
-- Haydar
+- Caner Akin
+- Hande Karatas
+- Altan Kurt
+- Derya Tavozar
+- Sercan Erhan
+- Sena Pala
+- Gizem Caliskan
+- Merve Basak
+- Haydar 
 
 Meeting Time: 4:32 PM EST (12:32 AM IST)
 
@@ -27,6 +27,8 @@ Consensus Decisions:
   3. @Caner Akin, @Oguz Ergul, @Onur Güngor @senapalaa @Günce Sıdıka Türkoğlu ---> BE Team
   4. @Derya Tavozar, @Sercan Erhan --- > Data Team
   5. @Derya Tavozar, @Merve basak --- > Test Team
+  6. @Haydar Kulekci --- > Onboarding Team
+  7. @Altan Kurt, [Oguz Erol](@oguzergul), @Hande Karatas --- > Legal Team
 
 To Do List:
 * Eray, Umut and Emre Savci are extremly focused on technical side currently. Instead of reaching out them for any advisory info, only crystal clear info should be the reason to reach out to them.
