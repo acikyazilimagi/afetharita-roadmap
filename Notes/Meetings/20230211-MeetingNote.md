@@ -7,7 +7,9 @@ Participants
 - Sena Pala
 - Gizem Caliskan
 - Merve Basak
-- Haydar 
+- Haydar Kulekci
+- Altan Kurt
+
 
 Meeting Time: 4:32 PM EST (12:32 AM IST)
 
