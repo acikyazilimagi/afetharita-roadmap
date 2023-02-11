@@ -15,12 +15,11 @@ Consensus Decision Moving Forward
 - 
 
 To Do List:
-- https://depremyardim.com/ üzerinden girilin bilgiler bu sayfada görüntüleniyor mu teyit edilecek. 
-
-- Erzak yardımlarında 3 gün ve tüm zamanlar harici gelmiyor, her seferinde bir sonrakine request atma konusu neden geri çekildi, frontend ekibi ile teyit edilecek. 
-
-- Figma linkinin onboarding dokümanına eklenmesi için Hande paylaşacak.
-
+* There is a form in https://depremyardim.com/. We are not sure if this data comes from depremyardim is getting implemented to AfetHarita.
+* Provision Aid and Confirmed data were used to come for 3 days cycles. It seems this process has been cancelled. Must be confirmed with Frontend Team.
+* Figma link should be included in onboarding docs. 
+  * Action for Hande 
+* PM Shift schedule should be established. There is always a problem with finding available PM.
 - Veri Bilgisi Pop-up (Figma) için nasıl ilerleyelim? Sena’nın hazırladığı ile mi gidelim yoksa Hande’nin dokümanı ile mi ilerleyelim? Burada ne gösteremiz gerekir?
 
 - Veri Bilgisi eklenmesi (Metadata) konusunda nasıl ilerleyim? Nerelerden hangi verileir alıyoruz bilgilendirmesi konusunda legal bir çekincemiz var mı?
