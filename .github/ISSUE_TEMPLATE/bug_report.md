@@ -2,10 +2,11 @@
 name: Hata raporlama
 about: Hata raporlama için kullanın
 title: 'bug: '
-labels: 'bug, unchecked'
+labels: bug
 assignees: ''
 
 ---
+
 ## Hata Tanımı
 Hatanın ne olduğu hakkında açık ve kısa bir açıklama.
 
