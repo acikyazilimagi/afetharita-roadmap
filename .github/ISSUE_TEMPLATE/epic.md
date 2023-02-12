@@ -1,7 +1,7 @@
 ---
 name: Epic
 about: Captures large, complex work across multiple user stories
-title: "[EP]"
+title: "[EP]:"
 labels: epic
 assignees: ''
 

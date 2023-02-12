@@ -1,7 +1,7 @@
 ---
 name: Initiative
 about: high-level strategic goals and desired impact
-title: "[IN]"
+title: "[IN]:"
 labels: initiative
 assignees: ''
 

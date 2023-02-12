@@ -1,7 +1,7 @@
 ---
 name: Action
 about: Management Actions for PMs
-title: "[ACT]"
+title: "[ACT]:"
 labels: action
 assignees: ''
 
