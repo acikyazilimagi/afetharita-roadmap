@@ -1,8 +1,8 @@
 ---
 name: Action
-about: Template for action items for PMs
-title: ''
-labels: ''
+about: Management Actions for PMs
+title: ACTION
+labels: action
 assignees: ''
 
 ---

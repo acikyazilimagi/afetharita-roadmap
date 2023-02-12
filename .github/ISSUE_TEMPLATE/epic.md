@@ -1,6 +1,6 @@
 ---
 name: Epic
-about: Template for Epic
+about: Captures large, complex work across multiple user stories
 title: EPIC
 labels: epic
 assignees: ''

@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Template for user story
+about: Desired outcomes for specific stakeholders
 title: User Story
 labels: user story
 assignees: ''

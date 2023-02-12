@@ -1,6 +1,6 @@
 ---
 name: Initiative
-about: Template for Initiative - high level strategy goal
+about: high-level strategic goals and desired impact
 title: Initiative
 labels: initiative
 assignees: ''
