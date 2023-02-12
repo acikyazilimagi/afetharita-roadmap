@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Desired outcomes for specific stakeholders
-title: User Story
+title: "[US]"
 labels: user story
 assignees: ''
 

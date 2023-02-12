@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Individual actions under user stories
-title: TASK
+title: "[TK]"
 labels: task
 assignees: ''
 
