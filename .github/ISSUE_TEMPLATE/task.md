@@ -14,3 +14,5 @@ assignees: ''
 - [ ] Criteria 1: [Description of acceptance criteria 1]
 - [ ] Criteria 2: [Description of acceptance criteria 2]
 - [ ] Criteria 3: [Description of acceptance criteria 3]
+
+## Linked User Story:

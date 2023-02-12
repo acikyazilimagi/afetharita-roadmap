@@ -19,3 +19,5 @@ Our goal is to improve the overall user experience for our app, Afet Harita, by 
 - [ ] User adoption of new features may be slow.
 - [ ] Changes to the user interface may confuse existing users.
 - [ ] Integration of new features with existing infrastructure may prove to be technically challenging.
+
+## Linked Initiative:
