@@ -42,7 +42,6 @@ TBD
 
 ## Roadmap stages
 
-**Hande**
 TBD
 
 ## Feature Areas
