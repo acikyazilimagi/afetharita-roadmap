@@ -9,7 +9,7 @@ Afet Harita is a tool designed as a open-source project to help emergency respon
 
 ## Wiki
 **The most up to date detailed information will be published in the Wiki page of this repository. **
-[Afet Harita Wiki](https://github.com/acikkaynak/afetharita-roadmap/wiki/1_Afet-Harita-Wiki)
+[Afet Harita Wiki](../../wiki)
 
 ## Contributing to the Project
 
