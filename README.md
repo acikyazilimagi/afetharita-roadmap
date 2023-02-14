@@ -11,4 +11,8 @@ Afet Harita is a tool designed as a open-source project to help emergency respon
 **The most up to date detailed information will be published in the Wiki page of this repository. **
 [Afet Harita Wiki](https://github.com/acikkaynak/afetharita-roadmap/wiki/1_Afet-Harita-Wiki)
 
+### Contributing to the Project
 
+The Afet Harita open-source community welcomes contributions from anyone who is interested in helping. To get involved, you can join the community via their Discord channel. The team uses GitHub Projects to manage their work and communicate in the Discord server.
+
+We hope this guide to the roadmap for Afet Harita is helpful in understanding the purpose and goals of the app. Thank you for your support and we look forward to your contributions!
