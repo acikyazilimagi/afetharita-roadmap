@@ -8,7 +8,7 @@ In the aftermath of the earthquake in Turkey, there was no sophisticated emergen
 Afet Harita is a tool designed as a open-source project to help emergency responders quickly identify areas affected by natural distasters and locate potential victims. Food locations, hospitals and other available services can be found in this application. The goal of this roadmap is to outline the development plan for Afet Harita, including the features and milestones that will be achieved over time.
 
 ## Wiki
-**The most up to date detailed information will be published in the Wiki page of this repository. **
+**The most up to date detailed information will be published in the Wiki page of this repository.**
 [Afet Harita Wiki](../../wiki)
 
 ## Contributing to the Project
